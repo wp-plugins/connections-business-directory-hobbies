@@ -80,11 +80,12 @@ Here are some great **free extensions** (with more on the way) that enhance your
 
 == Frequently Asked Questions ==
 
-None yet....
+None yet...
 
 == Screenshots ==
 
-None yet....
+1. The metabox containing the list of hobbies that can be assigned to a directory entry.
+2. The widget output on the frontend of the site when viewing a single directory entry.
 
 == Changelog ==
 
